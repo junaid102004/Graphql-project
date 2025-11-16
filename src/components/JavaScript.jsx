@@ -2,7 +2,7 @@ import React from 'react'
 
 const JavaScript = () => {
   return (
-    <div>JavaScript</div>
+    <div>JavaScript juniad yaha par aya </div>
   )
 }
 
